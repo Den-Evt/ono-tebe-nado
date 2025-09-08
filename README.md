@@ -1,1 +1,1 @@
-git@github.com:Den-Evt/ono-tebe-nado.git
+https://github.com/Den-Evt/ono-tebe-nado
